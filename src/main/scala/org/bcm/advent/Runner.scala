@@ -8,7 +8,7 @@ import eu.timepit.refined.*
 import eu.timepit.refined.api.Refined
 import solutions.*
 
-object Runner extends CommandIOApp(name = "Advent24", header = "Advent of Code 2024 solutions") {
+object Runner extends CommandIOApp(name = "Advent25", header = "Advent of Code 2025 solutions") {
   import RunnerArgs.*
 
   private val solutions =
