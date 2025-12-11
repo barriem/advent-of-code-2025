@@ -1,2 +1,17 @@
-# advent-of-code-2025
-Advent of code solutions for 2025
+# Advent of Code 2025
+
+## Overview
+
+Solutions to the Advent of Code 2025: https://adventofcode.com/
+
+## Running Locally
+
+To run a puzzle for a given day use:
+```
+sbt "run -d1 -p1"
+```
+
+or the more verbose version:
+```
+sbt "run --day 1 --part 1"
+```
